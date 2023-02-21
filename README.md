@@ -1,4 +1,4 @@
-# Insect Game
+# Insect Invasion
 
 This is an Android game built with Kotlin. It was a project assigned in my mobile devices class. The main task for the project was to build a custom widget for graphics and animations by creating a class that inherits from the View class. The event handler class creates threads to animate the launching of a cannonball across the display. The path of the cannonball is calculated using projectile motion equations. 
 
